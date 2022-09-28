@@ -1,0 +1,7 @@
+//#include <ncurses.h> sudo apt-get install libncurses5-dev
+#include <readline/readline.h> ///aby skompilowac program nalezy dodac -readline
+#include <readline/history.h> sudo apt-get install libreadline-dev
+
+
+
+gcc microshell.c -lreadline
