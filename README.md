@@ -35,7 +35,7 @@ So, open your bash and:
 sudo apt-get install libncurses5-dev
 ```
 
-- Second is <readline/readline.h> and <readline/history.h>
+- Second are <readline/readline.h> and <readline/history.h>
 
 ```sh
 sudo apt-get install libreadline-dev
