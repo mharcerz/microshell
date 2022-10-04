@@ -2,7 +2,7 @@
 ## Created by Michał Hołubowicz
 ##### mharcerz@gmail.com
 
-Microshell is a shell project for linux users, implemented by me in C
+Microshell is a shell project for linux users, implemented in 2021 by me in C
 language as a semester project from the Operating Systems course.
 
 ## Features
